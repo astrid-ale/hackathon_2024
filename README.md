@@ -37,7 +37,7 @@ Hosted in person at Traditional Dream Factory https://www.traditionaldreamfactor
     Arx: https://arx.org/
 
 ## Hackers: 
-12 
+12 <br>
 39 (updated: 12th June)
 
 ## Content
