@@ -51,25 +51,26 @@ Hosted in person at Traditional Dream Factory https://www.traditionaldreamfactor
 
 ## Submissions
 
-Teams are able to join the hackathon anytime and submit a project until June 14th. The Jury will deliberate and announce the winners on Saturday 15th.
-Eligibility criteria
-    Must use web3 technology in some way (blockchains, decentralized compute- storage, NFTs, tokens, etc.)
-    Must be regenerative https://blog.toucan.earth/what-is-refi-regenerative-finance/
-    Project should aim to drive adoption of web3 based approaches to governance and access in land based projects.
-    Project should aim to drive Ecological Benefits
-    Project must be submitted by the submission date.
-    Alterations after the submission date will not be considered
-    Project codebase must be usable and open source
-    Projects and their codebase must not be started before June 7th and no updates after June 14th.
-    Projects must have a pitch video of maximum of 5 minutes.
+Teams are able to join the hackathon anytime and submit a project until June 14th. The Jury will deliberate and announce the winners on Saturday 15th.<br>
+Eligibility criteria <br>
+    Must use web3 technology in some way (blockchains, decentralized compute- storage, NFTs, tokens, etc.) <br>
+    Must be regenerative https://blog.toucan.earth/what-is-refi-regenerative-finance/ <br>
+    Project should aim to drive adoption of web3 based approaches to governance and access in land based projects. <br>
+    Project should aim to drive Ecological Benefits <br>
+    Project must be submitted by the submission date.<br>
+    Alterations after the submission date will not be considered <br>
+    Project codebase must be usable and open source <br>
+    Projects and their codebase must not be started before June 7th and no updates after June 14th. <br>
+    Projects must have a pitch video of maximum of 5 minutes. <br>
 
-## Judging criteria
-   Value Add (20%): How major is the project's value add
-   Project Uniqueness (15%): How unique is the project
-   Business Model (15%): The effectiveness of the project's business model
-   Impact Potential (15%): Size of potential impact and increase in regenerative economy
-   Legal Concerns (15%): How could law hinder this project and how is it being addressed
-   Circularity (10%) How this project builds towards circularity.
-   Video (10%) Projects must have a pitch video of maximum of 5 minutes.
+## Judging criteria <br>
+   Value Add (20%): How major is the project's value add <br>
+   Project Uniqueness (15%): How unique is the project <br>
+   Business Model (15%): The effectiveness of the project's business model<br>
+   Impact Potential (15%): Size of potential impact and increase in regenerative economy<br>
+   Legal Concerns (15%): How could law hinder this project and how is it being addressed<br>
+   Circularity (10%) How this project builds towards circularity.<br>
+   Video (10%) Projects must have a pitch video of maximum of 5 minutes.<br>
+
 
 
