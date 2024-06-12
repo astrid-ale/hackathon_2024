@@ -72,5 +72,5 @@ Eligibility criteria <br>
    Circularity (10%) How this project builds towards circularity.<br>
    Video (10%) Projects must have a pitch video of maximum of 5 minutes.<br>
 
-
+https://www.traditionaldreamfactory.com/events/regenerative-futures-weekend-event
 
