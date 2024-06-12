@@ -48,7 +48,7 @@ Hosted in person at Traditional Dream Factory https://www.traditionaldreamfactor
 ![photo_6287502345621323418_y](https://github.com/astrid-ale/hackathon_2024/assets/165191996/9cf427a8-14da-440e-9dea-c61ccbacd3fc)
 ![photo_6287502345621323419_y](https://github.com/astrid-ale/hackathon_2024/assets/165191996/c685b6c2-34e7-4301-8f79-9e4942f6b219)
 
-<iframe width="560" height="315" src="https://youtu.be/wW1y5GsvMtk?feature=shared" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wW1y5GsvMtk?si=itf0RoRlYIa5nnOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Submissions
 
